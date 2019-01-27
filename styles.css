@@ -5,8 +5,8 @@ body{
 	overflow: hidden;
 }
 nav{
-position:relative;
-background: #fefefe;
+	position:relative;
+	background: #fefefe;
 	z-index: 2;
 	display: flex;
 	justify-content: flex-end;
